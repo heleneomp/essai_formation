@@ -1,5 +1,6 @@
 def greetings():
-print "Hello World!"
+print "Hello RESIF people!"
 
 if __name__ == "__main__":
-    greetings
+    greetings()
+
