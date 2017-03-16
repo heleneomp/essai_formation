@@ -1,7 +1,7 @@
 #!/usr/bin/env  python2
 
 def greetings():
-    print "Hello RESIF peoples!"
+print ("Hello RESIF peoples!")
 
 def repeat(x, callback):
     for _ in range(x):
